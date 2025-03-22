@@ -1,4 +1,3 @@
-======
 Live clock for Swatch Internet Time. Now for OBS!
 ======
 Edited version of Clidus' Swatch Internet website to be more easily incorporated into an OBS stream.
