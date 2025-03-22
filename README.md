@@ -1,3 +1,5 @@
+Edited version of Clidus' Swatch Internet website to be more easily incorporated into an OBS stream.
+======
 Live clock for Swatch Internet Time. The Time of the Future!
 ======
 
