@@ -1,7 +1,7 @@
+======
+Live clock for Swatch Internet Time. Now for OBS!
+======
 Edited version of Clidus' Swatch Internet website to be more easily incorporated into an OBS stream.
-======
-Live clock for Swatch Internet Time. The Time of the Future!
-======
 
 Swatch Internet Time is a decimal time system created in 1998 by the Swatch corporation. While adoption of Swatch Internet Time was a complete failure it is in fact the perfect method of keeping time. An Earth day is divided into 1000 parts, known as “beats”. Swatch is zero based, has no time zones and doesn’t observe the bullshit that is daylights saving.
 
